@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "EduRektTemplate"
+    }
+  },
+  "defaultProject": "EduRektTemplate",
+  "cli": {
+    "analytics": "87d25064-3a3a-4c60-a490-98d02b5e666e"
+  }
 }

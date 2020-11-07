@@ -21,6 +21,7 @@ import { RoomDetailsComponent } from './room-details/room-details.component';
 import { StudentListComponent } from './student-list/student-list.component';
 import { ModuleListComponent } from './module-list/module-list.component';
 import { ConfirmationDialogComponent } from './confirmation-dialog/confirmation-dialog.component';
+import { StudentDetailsComponent } from './student-details/student-details.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +30,8 @@ import { ConfirmationDialogComponent } from './confirmation-dialog/confirmation-
     RoomDetailsComponent,
     StudentListComponent,
     ModuleListComponent,
-    ConfirmationDialogComponent
+    ConfirmationDialogComponent,
+    StudentDetailsComponent
   ],
   imports: [
     BrowserModule,
